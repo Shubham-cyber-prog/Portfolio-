@@ -7,6 +7,8 @@ This is my second personal portfolio website, created as part of an assessment g
 
 Check out the deployed portfolio here:  
 👉 [https://shubham-cyber-prog.github.io/Portfolio-/](https://shubham-cyber-prog.github.io/Portfolio-/)
+![image](https://github.com/user-attachments/assets/63f60d95-33bf-4c89-b88b-f3dd7c158853)
+
 
 ## 📁 Repository
 
